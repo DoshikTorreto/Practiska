@@ -16,7 +16,7 @@ public class BinarySearchTree
             Right = null;
         }
     }
-}
+    
     private Node root;
 
     // Конструкторы
@@ -205,3 +205,4 @@ public class BinarySearchTree
     }
 
     // Проверка подобия
+}
